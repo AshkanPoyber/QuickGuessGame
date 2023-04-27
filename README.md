@@ -17,7 +17,11 @@ v0.0.0.1 : <br>
 <br>
 💢 Found Some Wallpaper For Form Background
 <br>
+💢 Set related Image For Beauty Of Windows Form
+<br>
 💢 Add Some Music For NumbericUpDown
+<br>
+💢 Add Some Music For Windows Form Auto Play
 <br>
 💢 And Absolutely So Much More
 
