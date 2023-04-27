@@ -1,6 +1,5 @@
 # QuickGuessGame
 [![Made in Iran](https://img.shields.io/badge/made_in-iran-ffd700.svg?labelColor=0057b7)](https://github.com/AshkanPoyber)
-[![University Project](https://img.shields.io/badge/University-Project-e4181c.svg?labelColor=0000ff)](#)
 [![Release](https://img.shields.io/github/release/AshkanPoyber/QuickGuessGame.svg)](https://github.com/AshkanPoyber/QuickGuessGame/releases)
 [![Downloads](https://img.shields.io/github/downloads/AshkanPoyber/QuickGuessGame/total.svg)](https://github.com/AshkanPoyber/QuickGuessGame/releases)
 [![Discord](https://img.shields.io/discord/796419830819061800?label=discord)](https://discord.gg/yPWu7F7Gxb)
