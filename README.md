@@ -19,7 +19,7 @@ v0.1.0.0 : <br>
 <br>
 💢 Set related Image For Beauty Of Windows Form
 <br>
-💢 Add Some Music For NumbericUpDown (Beep)
+💢 Add Some Music For Timer (Beep)
 <br>
 💢 Add Some Music For Windows Form Auto Play
 <br>
