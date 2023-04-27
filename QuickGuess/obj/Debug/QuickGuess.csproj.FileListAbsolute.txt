@@ -1,0 +1,25 @@
+E:\C#\QuickGuess\QuickGuess\bin\Debug\QuickGuess.exe.config
+E:\C#\QuickGuess\QuickGuess\bin\Debug\QuickGuess.exe
+E:\C#\QuickGuess\QuickGuess\bin\Debug\QuickGuess.pdb
+E:\C#\QuickGuess\QuickGuess\obj\Debug\QuickGuess.csproj.AssemblyReference.cache
+E:\C#\QuickGuess\QuickGuess\obj\Debug\QuickGuess.Form1.resources
+E:\C#\QuickGuess\QuickGuess\obj\Debug\QuickGuess.Properties.Resources.resources
+E:\C#\QuickGuess\QuickGuess\obj\Debug\QuickGuess.csproj.GenerateResource.cache
+E:\C#\QuickGuess\QuickGuess\obj\Debug\QuickGuess.csproj.CoreCompileInputs.cache
+E:\C#\QuickGuess\QuickGuess\obj\Debug\QuickGuess.exe
+E:\C#\QuickGuess\QuickGuess\obj\Debug\QuickGuess.pdb
+E:\My Programming Project\C#\QuickGuessGame\QuickGuess\QuickGuess\bin\Debug\QuickGuess.exe.config
+E:\My Programming Project\C#\QuickGuessGame\QuickGuess\QuickGuess\bin\Debug\QuickGuess.exe
+E:\My Programming Project\C#\QuickGuessGame\QuickGuess\QuickGuess\bin\Debug\QuickGuess.pdb
+E:\My Programming Project\C#\QuickGuessGame\QuickGuess\QuickGuess\obj\Debug\QuickGuess.csproj.AssemblyReference.cache
+E:\My Programming Project\C#\QuickGuessGame\QuickGuess\QuickGuess\obj\Debug\QuickGuess.Form1.resources
+E:\My Programming Project\C#\QuickGuessGame\QuickGuess\QuickGuess\obj\Debug\QuickGuess.Properties.Resources.resources
+E:\My Programming Project\C#\QuickGuessGame\QuickGuess\QuickGuess\obj\Debug\QuickGuess.csproj.GenerateResource.cache
+E:\My Programming Project\C#\QuickGuessGame\QuickGuess\QuickGuess\obj\Debug\QuickGuess.csproj.CoreCompileInputs.cache
+E:\My Programming Project\C#\QuickGuessGame\QuickGuess\QuickGuess\obj\Debug\QuickGuess.exe
+E:\My Programming Project\C#\QuickGuessGame\QuickGuess\QuickGuess\obj\Debug\QuickGuess.pdb
+E:\My Programming Project\C#\QuickGuessGame\QuickGuess\QuickGuess\bin\Debug\Interop.WMPLib.dll
+E:\My Programming Project\C#\QuickGuessGame\QuickGuess\QuickGuess\bin\Debug\AxInterop.WMPLib.dll
+E:\My Programming Project\C#\QuickGuessGame\QuickGuess\QuickGuess\obj\Debug\Interop.WMPLib.dll
+E:\My Programming Project\C#\QuickGuessGame\QuickGuess\QuickGuess\obj\Debug\AxInterop.WMPLib.dll
+E:\My Programming Project\C#\QuickGuessGame\QuickGuess\QuickGuess\obj\Debug\QuickGuess.csproj.ResolveComReference.cache
