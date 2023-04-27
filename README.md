@@ -30,5 +30,5 @@ v0.1.0.0 : <br>
 💢 And Absolutely So Much More
 
 # Known Issue's
-⚠ It Is Alpha Version , So It Getting So Problems At This Time , I'm Working On Fix!
+⚠ It Is Pre Alpha Version , So It Getting So Problems At This Time , I'm Working On Fix!
 
