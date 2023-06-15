@@ -16,7 +16,7 @@
 🛑 Please Pay Attention , This Program Is Made Only For The Entertainment Of Your Loved Ones And The Possibility Of Its Development Is Certain. If You're Looking For My Other Projects Then [Click Here!](https://github.com/AshkanPoyber?tab=repositories)
 
 # Changelog
-v0.1.0.0 : <br>
+v1.0.0.0 : <br>
 ✅ Pre Alpha Version Published!
 # ToDo List
 💢 Found Some Logo For Program
