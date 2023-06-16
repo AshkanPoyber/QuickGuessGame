@@ -17,7 +17,7 @@
 
 # Changelog
 v1.0.0.0 : <br>
-✅ Pre Alpha Version Published!
+✅ Final Version Published!
 # ToDo List
 💢 Found Some Logo For Program
 <br>
