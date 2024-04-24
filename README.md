@@ -1,24 +1,27 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=My+Name+Is+Ashkan!;Nice+To+Meet+You!;Have+a+Great+Time!;Thanks+For+Visiting!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
-</p>
+<h1 align="center">
+      <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+    𝑸𝒖𝒊𝒄𝒌𝑮𝒖𝒆𝒔𝒔𝑮𝒂𝒎𝒆
+      <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+</h1>
 
-# QuickGuessGame
+
 [![Ashkan Poyber](https://img.shields.io/badge/Ashkan-Poyber-e4181c.svg?labelColor=0000ff)](#)
 [![Made in Iran](https://img.shields.io/badge/made_in-iran-ffd700.svg?labelColor=0057b7)](https://github.com/AshkanPoyber)
-<a href="https://www.youtube.com/AcerMRD"><img src="https://img.shields.io/badge/YouTube-Channel-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
-[![Release](https://img.shields.io/github/release/AshkanPoyber/QuickGuessGame.svg)](https://github.com/AshkanPoyber/QuickGuessGame/releases)
-[![Downloads](https://img.shields.io/github/downloads/AshkanPoyber/QuickGuessGame/total.svg)](https://github.com/AshkanPoyber/QuickGuessGame/releases)
-[![Discord](https://img.shields.io/discord/796419830819061800?label=discord)](https://discord.gg/yPWu7F7Gxb)
-[![Donate](https://img.shields.io/badge/donate-$$$-8a2be2.svg)](#) 
+[![University Project](https://img.shields.io/badge/University-Project-e4181c.svg?labelColor=0000ff)](#)
+[![Release](https://img.shields.io/github/release/AshkanPoyber/PoyLearn.svg)](https://github.com/AshkanPoyber/PoyLearn/releases)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-# QuickGuessGame 
+
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> QuickGuessGame 
 🛑 Please Pay Attention , This Program Is Made Only For The Entertainment Of Your Loved Ones And The Possibility Of Its Development Is Certain. If You're Looking For My Other Projects Then [Click Here!](https://github.com/AshkanPoyber?tab=repositories)
 
-# Changelog
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> Changelog
 v1.0.0.0 : <br>
 ✅ Final Version Published!
-# ToDo List
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> ToDo List
 💢 Found Some Logo For Program
 <br>
 💢 Found Some Wallpaper For Form Background
@@ -31,6 +34,12 @@ v1.0.0.0 : <br>
 <br>
 💢 And Absolutely So Much More
 
-# Known Issue's
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> Known Issue's
 ⚠ It Is Pre Alpha Version , So It Getting So Problems At This Time , I'm Working On Fix!
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=fd0006&height=65&section=footer"/>
+</p>
+
 
